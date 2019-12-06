@@ -1,4 +1,4 @@
-﻿HDI Rank (2017);Country;Health;Life Expectancy Index;Life Expectancy at birth (years);Mortality rate, infant (per 1,000 live births);Tuberculosis incidence (per 100,000 people);HDI
+﻿HDI Rank (2017);Country;Health;Life_Expectancy_Index;Life_Expectancy_at_birth_(years);Mortality_rate_infant;Tuberculosis_incidence;HDI
 168;Afghanistan;0.49;0.672;63.7;53.2;189;0.498
 68;Albania;0.78;0.898;78.3;12;16;0.785
 85;Algeria;0.75;0.863;76.1;21.6;70;0.754
